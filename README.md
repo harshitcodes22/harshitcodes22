@@ -6,4 +6,4 @@
 - Exploring Open Source
 - Learning and sharing my progress in public on twitter
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,bootstrap,git,github,cpp,discord,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,bootstrap,git,github,cpp,discord)](https://skillicons.dev)
