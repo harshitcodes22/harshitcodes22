@@ -5,3 +5,4 @@
 - Working as a Web-Developer at Parkyee
 - Learning and sharing my progress in public on twitter
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)]
