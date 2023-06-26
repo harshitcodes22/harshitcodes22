@@ -10,7 +10,6 @@
 - I am a Front-End Developer
 - Learning Back-End Web Development
 - Exploring Open Source
-- Learning and sharing my progress in public on twitter
 <hr>
 
   
